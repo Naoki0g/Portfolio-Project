@@ -1,7 +1,7 @@
-##💻 Portfolio Project
-Este repositório contém o código-fonte de uma interface de portfólio responsiva, desenvolvida com foco em design moderno e performance. O projeto utiliza técnicas avançadas de CSS para criar uma experiência visual fluida.
---
-##🛠️ Especificações Técnicas
-Layout: Estruturado com HTML5 semântico.
+# Portfolio Project
 
-Estilização: CSS3 customizado utilizando variáveis de ambiente (CSS Variables) para controle de animações.
+Interface de portfólio desenvolvida com foco em design moderno, utilizando técnicas avançadas de estilização e animações controladas via CSS.
+
+## 🛠️ Tecnologias e Recursos
+* **HTML5 Semântico:** Estruturação otimizada para acessibilidade e SEO.
+* **CSS3 Advanced:** * Uso de **Variáveis CSS** (`--i`) para controle de delay em animações sequenciais.
